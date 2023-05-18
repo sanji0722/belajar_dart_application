@@ -10,10 +10,10 @@ environment:
 publish_to : none
 
 dependencies:
-  Belajar_Dart_Packages:
+  hello_packages:
     git: 
-      url : git@github.com:sanji0722/Belajar_Dart_Packages.git
-      ref : 1.0.0
+      url : https://github.com/sanji0722/hello_packages.git
+      ref : 1.5.0
 
 
 
